@@ -1,0 +1,23 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    }
+    h1 {
+    background-color: #002b36;
+    color: #93a1a1;
+    padding: 1em;
+    }
+    button {
+    display: inline-block;
+    margin: 0.5em 0;
+    padding: 0.5em 1em;
+    font-size: 1em;
+    cursor: pointer;
+    box-shadow: none;
+    border-radius: 0;
+    border-width: 0;
+    text-decoration: none;
+    line-height: 1.2;
+    background-color: #268bd2;
+    color: #fff;
+    }
+    
